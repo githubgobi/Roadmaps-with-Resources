@@ -1,0 +1,109 @@
+Golden Tips + Resources To get Job/Internships + For self Development 
+
+Only these Best resources you need to start 📈
+Opensource, Web Development, Programming, DevOps and all Cyber Security Resources Included ⬇
+
+---
+[ Open-source ]
+Open Source Plays Important role in Self Development + in Job/Internships resume.
+
+1. What is Open Source & How to Start?
+https://youtu.be/msyGybzCKRs by @kunalstwt 
+2. 25+ Paid Open Source Programs and Internships
+https://youtu.be/x4hsV_q_YQc by @kunalstwt 
+3. Best Open Source Guidance Channel + My Fav Channel On YouTube
+4. https://www.youtube.com/c/eddiejaoude/videos by @eddiejaoude 
+5. Website: https://www.eddiehub.org/
+
+---
+[ Essential Skills in Every Field ]
+1. Computer Networking https://youtu.be/IPvYjXCsTg8 by @kunalstwt 
+2. Linux Tutorial https://youtu.be/v_1zB2WNN14 by @edurekaIN 
+3. Complete Git and GitHub Tutorial https://youtu.be/apGV9Kg7ics by @kunalstwt 
+--------------------
+
+[ Web Development]- Necessary 
+1. HTML https://youtu.be/qz0aGYrrlhU by @moshhamedani 
+2. CSS https://youtu.be/yfoY53QXEnI by @traversymedia 
+3. JavaScript https://youtu.be/hdI2bqOjy3c by @traversymedia 
+ 4. Namaste 🙏 JavaScript https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP by @akshaymarch7 
+Well(In-Depth) Explained 
+5. Modern Frontend Bootcamp 2022 https://youtu.be/zRMRS2snuRg by @codedamncom @mehulmpt 
+--------------------
+[ Web Development ] - Good to Learn
+1. NodeJS https://youtu.be/Oe421EPjeBE by @freeCodeCamp 
+2. MongoDB https://youtu.be/Www6cTUymCY by @AmigosCode 
+3. React https://youtu.be/bMknfKXIFA8 by @freeCodeCamp 
+--------------------
+[ Programming ] - Base
+1. C https://youtu.be/KJgsSFOSQv0 by @freeCodeCamp 
+	or
+2. C++ https://youtu.be/vLnPwxZdW4Y by @freeCodeCamp 
+Learn Any C or C++ 
+
+------
+[ Programming ]
+1. Java + DSA https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ by @kunalstwt 
+2. Python https://youtu.be/_uQrJ0TkZlc by @moshhamedani 
+3. Bash Scripting https://youtu.be/e7BufAVwDiM by @linuxhint
+4. GO https://youtu.be/yyUHQIec83I by @Njuchi_ 
+--------------------
+[ DevOps ]
+1. DevOps Pre-requisites https://youtu.be/Wvf0mBNGjXY by @freeCodeCamp 
+2. Docker https://youtu.be/3c-iBn73dDE by @Njuchi_ 
+3. Kubernetes https://youtu.be/d6WC5n9G_sM by @freeCodeCamp 
+4. DevOps Engineering https://youtu.be/j5Zsa_eOXeY by @freeCodeCamp  
+
+--------------------
+[ Cyber Security ]  - 1
+1. Linux Essentials for Ethical Hackers https://youtu.be/1hvVcEhcbLM by @HackerSploit 
+2. Ethical Hacking Course https://youtu.be/fNzpcB7ODxQ by @thecybermentor 
+3. Open-Source Intelligence https://youtu.be/qwA6MmbeGNo by @thecybermentor 
+4. Buffer Overflows https://youtu.be/ncBblM920jw by @thecybermentor 
+--------------------
+[ Web App Pentesting ]-[ Bug Hunting ] - 2
+1. Web App Pentesting https://youtu.be/X4eRbHgRawI by @thecybermentor 
+3. Web App Penetration Testing Tutorials https://www.youtube.com/playlist?list=PLBf0hzazHTGO3EpGAs718LvLsiMIv9dSC by @HackerSploit 
+
+---
+[ Bug Hunting ] - 3
+1. Guide to Failing at Bug Bounties
+https://www.youtube.com/playlist?list=PLhfP6zOcRP1f_FyWc_gk1fRz1mxst0QE5 by @RogueSMG 
+2. What after Recon?
+https://www.youtube.com/playlist?list=PLhfP6zOcRP1fXtBtxhTlu9KR-PKDA6biX by @RogueSMG 
+3. No BS Guides 
+https://www.youtube.com/playlist?list=PLhfP6zOcRP1dCTjbENt4ilFKFwFpspOoS  by @RogueSMG 
+
+--------------------
+[ Bug Hunting ] - 4
+1. New to bug hunting https://www.youtube.com/watch?v=hDYqWZ11njU&list=PLbyncTkpno5FAC0DJYuJrEqHSMdudEffw by @InsiderPhD 
+2. Everything API Hacking https://www.youtube.com/watch?v=yCUQBc2rY9Y&list=PLbyncTkpno5HqX1h2MnV6Qt4wvTb8Mpol by @InsiderPhD 
+3. Bug bounty / webapp pentesting tutorials
+https://www.youtube.com/playlist?list=PLF7JR1a3dLONdkRYU_8-5OcgOzrWe2549 by @stokfredrik 
+4. Web Security Academy https://www.youtube.com/c/RanaKhalil101/videos by @rana__khalil 
+
+---
+[ Bug Hunting ] - Web Practice - 5
+1. https://portswigger.net/web-security/learning-path by @PortSwigger 
+2. https://pentesterlab.com/ by @PentesterLab 
+3. https://www.bugbountyhunter.com/ by @BugBountyHunt3r 
+4. https://application.security/ by @security_contra 
+
+---
+[ Bug Hunting ] - CTF Practice - 6
+1. https://ctf.hacker101.com/ by @Hacker0x01 
+2. https://overthewire.org/wargames/ by @OverTheWireCTF  
+3. https://ctfchallenge.com/ by @CTFchallenge 
+4. https://tryhackme.com/ by @RealTryHackMe 
+5. https://www.bugbountyhunter.com/ by @BugBountyHunt3r 
+6. https://www.hackthebox.com/ by @hackthebox_eu 
+
+--------------------
+[ Bug Hunting ] - Programs - 7
+1. https://bugcrowd.com/ @Bugcrowd 
+2. https://hackerone.com/ @Hacker0x01 
+3. https://www.facebook.com/whitehat @Meta 
+4. https://www.intigriti.com/ @intigriti 
+5. https://www.yeswehack.com/ @yeswehack 
+6. https://yogosha.com/ @YogoshaOfficial 
+--------------
