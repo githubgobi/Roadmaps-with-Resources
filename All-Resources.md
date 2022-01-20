@@ -5,8 +5,8 @@ Opensource, Web Development, Programming, DevOps and all Cyber Security Resource
 
 ---
 [ Open-source ]
-Open Source Plays Important role in Self Development + in Job/Internships resume.
 
+Open Source Plays Important role in Self Development + in Job/Internships resume.
 1. What is Open Source & How to Start?
 https://youtu.be/msyGybzCKRs by @kunalstwt 
 2. 25+ Paid Open Source Programs and Internships
