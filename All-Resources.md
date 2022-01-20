@@ -11,7 +11,7 @@ Open Source Plays Important role in Self Development + in Job/Internships resume
 https://youtu.be/msyGybzCKRs by @kunalstwt 
 2. 25+ Paid Open Source Programs and Internships
 https://youtu.be/x4hsV_q_YQc by @kunalstwt 
-3. Best Open Source Guidance Channel + My Fav Channel On YouTube
+3. Best Open Source Guidance Channel + My Fav Channel On Open Source 
 4. https://www.youtube.com/c/eddiejaoude/videos by @eddiejaoude 
 5. Website: https://www.eddiehub.org/
 
